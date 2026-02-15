@@ -21,10 +21,10 @@ This is a personal website about me showing my coding journey, hobbies, and achi
 - I learned how to use flexbox to stack images and text neatly and use CSS grid to organize the layout.
 
 # Resources
-- Images
+# Images
 - https://pixabay.com/
 - https://unsplash.com/
-- Fonts
+# Fonts
 - https://fonts.google.com/
 
 # Image
