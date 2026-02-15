@@ -25,6 +25,7 @@ This is a personal website about me showing my coding journey, hobbies, and achi
 - https://pixabay.com/
 - https://unsplash.com/
 - Fonts
+- https://fonts.google.com/
 
 # Image
 <img width="1468" height="613" alt="Screenshot 2026-02-15 at 6 47 27 PM" src="https://github.com/user-attachments/assets/642e189a-7f6b-47d1-bd38-2a69694a70c1" />
