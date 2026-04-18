@@ -1,7 +1,7 @@
 # Personal Website
 
 # Description
-This is a personal website about me showing my coding journey, hobbies, and achievements.
+This is a personal website about me showing my coding journey, hobbies, achievements and goals.
 
 # Features
 - Navigation bars
