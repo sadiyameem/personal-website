@@ -214,6 +214,21 @@ footer a:hover {
     font-size: 1.1em;
 }
 
+#journey {
+    background-color: var(--color-1);
+}
+
+#journey h2 {
+    margin-bottom: 1em;
+}
+
+.timeline {
+    padding: 1.25em;
+    margin: auto;
+    width: 700px;
+    text-align: left;
+}
+
 @media(max-width: 988px) {
     header {
         text-align: center;
